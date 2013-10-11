@@ -1,0 +1,4 @@
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubMileage\bin\Debug\GardenClubMileage.exe
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubMileage\bin\Debug\GardenClubMileage.pdb
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubMileage\obj\Debug\GardenClubMileage.exe
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubMileage\obj\Debug\GardenClubMileage.pdb

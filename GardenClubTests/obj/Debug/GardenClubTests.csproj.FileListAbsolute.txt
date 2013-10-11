@@ -1,0 +1,9 @@
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\bin\Debug\GardenClubTests.dll
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\bin\Debug\GardenClubTests.pdb
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\bin\Debug\nunit.framework.dll
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\bin\Debug\nunit.framework.xml
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\obj\Debug\GardenClubTests.csprojResolveAssemblyReference.cache
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\obj\Debug\GardenClubTests.dll
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\obj\Debug\GardenClubTests.pdb
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\bin\Debug\GardenClubMileage.exe
+c:\users\ian\documents\visual studio 2010\Projects\GardenClubMileage\GardenClubTests\bin\Debug\GardenClubMileage.pdb
